@@ -1,7 +1,8 @@
 <h1 align="center">Projeto Tabuleiro</h1>
 <p align="center"><i>Repository for versioning and project documentation used during the course Next.js e React.</i></p>
 
-<img width="856" alt="Captura de Tela 2022-12-21 às 22 54 39" src="https://user-images.githubusercontent.com/75143575/209039134-79c863e0-6c6e-4bba-8215-5d6307eefa82.png">
+
+<img width="1694" alt="Captura de Tela 2022-12-21 às 23 33 07" src="https://user-images.githubusercontent.com/75143575/209042815-f34d76bc-7154-4da0-82db-00ef0161eea2.png">
 
 
 
