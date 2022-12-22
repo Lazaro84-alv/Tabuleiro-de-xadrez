@@ -1,3 +1,9 @@
+<h1 align="center">Projeto Tabuleiro</h1>
+<p align="center"><i>Repository for versioning and project documentation used during the course Next.js e React.</i></p>
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
